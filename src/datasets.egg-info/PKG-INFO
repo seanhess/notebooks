@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: datasets
+Version: 0.1.0
+Summary: Explore datasets
+Author: Sean Hess
+Author-email: shess@nso.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: astropy>=4.0
+Requires-Dist: numpy>=1.20
+Requires-Dist: matplotlib>=3

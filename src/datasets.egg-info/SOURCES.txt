@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+src/datasets.egg-info/PKG-INFO
+src/datasets.egg-info/SOURCES.txt
+src/datasets.egg-info/dependency_links.txt
+src/datasets.egg-info/requires.txt
+src/datasets.egg-info/top_level.txt
